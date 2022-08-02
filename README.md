@@ -8,6 +8,14 @@ Warning: The project development is not complete due to my lack of time. I open 
 
 
 # Function
-`Letter system`, `Report system`, `Submission system`, `Attribute system`, `Talent system`, Dynamic `Inventory system`, Unique `Admin system`, `TAB list menu`, `Level system`
+`Letter system`
+`Report system`
+`Submission system`
+`Attribute system`
+`Talent system`
+Dynamic`Inventory system`
+Unique`Admin system`
+`TAB list menu` 
+`Level system`
 
 Multithreaded databases: log `xz_log`, player data `xz_main`, NPC `xz_npc`
